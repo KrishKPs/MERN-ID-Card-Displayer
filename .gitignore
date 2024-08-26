@@ -4,9 +4,7 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-# Ignore README files
-README.md
-README.txt
+
 
 # Ignore other unnecessary files
 *.md
